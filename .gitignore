@@ -1,0 +1,21 @@
+# --- Unity generated ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+# --- IDE / project files ---
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+# --- Unity Collaborate proxy ---
+Packages/com.unity.collab-proxy/
